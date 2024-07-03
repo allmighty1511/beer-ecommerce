@@ -1,0 +1,10 @@
+.sizeButton {
+	border: 1px solid #969696;
+	transition-duration: 300ms;
+}
+
+.sizeButton.active {
+	border: 1px solid #ff9f24;
+	color: #ff9f24;
+	transition-duration: 300ms;
+}
